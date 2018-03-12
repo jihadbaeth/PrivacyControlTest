@@ -1,4 +1,4 @@
-/**
+package tr.yildiz.edu.privacyControl; /**
  *
  */
 
